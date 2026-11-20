@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" width="96" alt="dotmcombinationonlisting"></p>
+<p align="center"><img src="logo.svg?v=2" width="96" alt="dotmcombinationonlisting"></p>
 
 # dotmcombinationonlisting — Combinazioni nel listato per PrestaShop
 
